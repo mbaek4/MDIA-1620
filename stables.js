@@ -73,7 +73,7 @@ const monthlyrate = 45$
 let stablename = "Michael's Stable"
 
 let kirk = {
-name: "kirk", 
+name: "cirk", 
 age: 15,
 snack: "carrots", 
 fee: (monthlyrate * 1.2)
